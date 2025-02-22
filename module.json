@@ -1,0 +1,28 @@
+{
+  "id": "czechtranslationmonkactivetiles",
+  "title": "CzechTranslationMonkActiveTiles",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12.331",
+    "verified": "12.331"
+  },
+  "description": "Český překlad Monk´s Active Tiles.",
+  "authors": [
+    {
+      "name": "Lethrendis",
+      "email": "michmildub@seznam.cz",
+      "discord": "Lethrendis",
+      "flags": {}
+    }
+  ],
+  "languages": [
+      {
+      "lang": "cs",
+      "name": "Čeština",
+      "path": "lang/cs.json"
+    }
+  ],
+  "url": "https://github.com/Lethrendis/CzechTranslationMonkActiveTiles",
+  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationMonkActiveTiles/main/module.json",
+  "download": "https://github.com/Lethrendis/CzechTranslationMonkActiveTiles/archive/refs/heads/main.zip"
+}
