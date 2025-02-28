@@ -10,7 +10,7 @@ Tento modul poskytuje českou lokalizaci pro Monk´s Active Tiles verze 12.02. O
 Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
 
 ```
-https://github.com/Lethrendis/CzechTranslationMonkTokenbar
+https://raw.githubusercontent.com/Lethrendis/CzechTranslationMonkActiveTiles/main/module.json
 ```
 
 ## Autor
